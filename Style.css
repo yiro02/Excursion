@@ -19,6 +19,7 @@ body {
 .link-cta {
     color: aquamarine;
     font-size: 16px;
+    padding-bottom: 2rem;
 }
 
 h1 {
@@ -26,6 +27,7 @@ h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 300;
     font-size: 42px;
+    margin: 2rem;
 }
 
 /* Cabeza secundaria */
@@ -33,9 +35,26 @@ h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 21px;
     color: gray;
+    margin-bottom: 2rem;
 }
+
 .header-scundary{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 42px;
     font-weight: 300;
+    margin-bottom: 2rem;
+}
+
+img{
+ padding-bottom: 15px;
+}
+video{
+    padding: 2.5rem;
+}
+
+.footer{
+    color: gray;
+    text-align: right;
+    font-size: xx-large;
+    padding: 2rem;
 }
