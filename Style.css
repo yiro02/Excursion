@@ -15,14 +15,27 @@ body {
     text-align: center;
 }
 
-p {
+/*LNIKS*/
+.link-cta {
     color: aquamarine;
     font-size: 16px;
 }
 
-h1{
-color: white;
-font-family: Verdana, Geneva, Tahoma, sans-serif;
-font-weight: 300;
-font-size: 42px;
+h1 {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+/* Cabeza secundaria */
+.sub-titulo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+.header-scundary{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 42px;
+    font-weight: 300;
 }
